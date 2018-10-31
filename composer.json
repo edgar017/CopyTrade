@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php-curl-class/php-curl-class": "8.3.2",
+    "jaggedsoft/php-binance-api": "v0.4.6",
+    "codedungeon/php-cli-colors": "1.10.7",
+    "analog/analog": "1.0.9-stable",
+    "maknz/slack": "1.7.0"
+  }
+}
